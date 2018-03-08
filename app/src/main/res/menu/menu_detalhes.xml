@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Fechar"
+        app:showAsAction="never"
+        android:id="@+id/menu_fechar"/>
+    
+    <item
+        android:title="Pendencia"
+        app:showAsAction="never"
+        android:id="@+id/menu_pendencia"/>
+
+    <item
+        android:title="Reset_MAC"
+        app:showAsAction="never"
+        android:id="@+id/menu_mac"/>
+
+    <item
+        android:title="GPS Location"
+        app:showAsAction="never"
+        android:id="@+id/menu_location"/>
+
+</menu>
